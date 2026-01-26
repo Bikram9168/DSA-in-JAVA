@@ -11,6 +11,10 @@ public class Ascii {
         System.out.println(x); // Output => 65
 
         char ch2='7';
-        System.out.println((int)ch2); // Here we convort explicit typecasting ,and output is => 55
+        System.out.println((int)ch2);// Here we convort explicit typecasting ,and output is => 55
+
+        char ch3='b';
+        System.out.println(ch3+0);
     }
 }
+
