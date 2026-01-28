@@ -1,1 +1,4 @@
-
+- # Loops
+- There are minaly 3 types of loops
+- for loop , while loop , and do while loop
+- ## Topics
