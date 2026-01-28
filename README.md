@@ -4,9 +4,9 @@ In the java-basics file we covered how to print any output , how to take user-in
 
 
 ## If Else
-In this file we discus some common questions and also some important topics and new concepts like
-==> Logical or (||) , Logical and (&&) , Logical Not (!=) etc ant it's uses.
-In this file we will also discuse about were we use a single if condition and where we use if - else statement and where we use if else ladder and where we use multiple if or else-if statement.
+-In this file we discus some common questions and also some important topics and new concepts like
+- Logical or (||) , Logical and (&&) , Logical Not (!=) etc ant it's uses.
+-In this file we will also discuse about were we use a single if condition and where we use if - else statement and where we use if else ladder and where we use multiple if or else-if statement.
 
 
 # Loops in Programming
@@ -18,7 +18,7 @@ In this file we will also discuse about were we use a single if condition and wh
 ## Types of Loops
 
 ### 1. For Loop
--A `for` loop is used when the number of iterations is known in advance.
+A `for` loop is used when the number of iterations is known in advance.
 
 **Syntax (general):**
 ```c
