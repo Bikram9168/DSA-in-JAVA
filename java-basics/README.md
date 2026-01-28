@@ -10,4 +10,4 @@ This section contains basic Java programs for beginners.
 - Ascii value
 - Input and Output
 - Operators
--   #
+- Some simple mathematical operations(how to perform)
