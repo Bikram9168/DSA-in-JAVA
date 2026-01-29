@@ -18,5 +18,6 @@ All programs include:
 - Beginner-friendly logic
 - User input where required
 - ### Even_no_1_to_100.java
+Logic of this program
 - In this problem we actually print all the numbers which are even upto 100.
 - Here we increment by 2 and start from 0 so every step add 2 which is even number.
