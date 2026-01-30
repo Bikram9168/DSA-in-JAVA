@@ -10,17 +10,20 @@ public class Composite_number {
 
         for(int i=2;i<=num-1;i++)
         {
-            flag = false; // false Means composite
-            break;
+            if (num%i==0) 
+            {
+                flag = false; // false Means composite
+                break;
+            }
+            
         }
         if(flag==false)
         {
             System.out.println("Composite Number.");
         }
-       if(flag==true)
+        if(flag==true)
         {
             System.out.println("Prime Number.");
         }
     }
 }
-
