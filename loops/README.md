@@ -3,7 +3,8 @@
 - for loop , while loop , and do while loop
 - ## Topics Covered
 - for loop
-- while loop
+- ### while loop
+- Generally used when conditions are more than one
 - do while loop
 - break statement
 - continue statement
