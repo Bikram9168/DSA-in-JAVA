@@ -17,11 +17,15 @@ public class Composite_number {
             }
             
         }
-        if(flag==false)
+        if(num==1)
+        {
+            System.out.println("Nither Prime Nor Composite.");
+        }
+        else if(flag==false)
         {
             System.out.println("Composite Number.");
         }
-        if(flag==true)
+        else
         {
             System.out.println("Prime Number.");
         }
