@@ -15,7 +15,6 @@ public class Composite_number {
                 flag = false; // false Means composite
                 break;
             }
-            
         }
         if(num==1)
         {
@@ -31,3 +30,4 @@ public class Composite_number {
         }
     }
 }
+
