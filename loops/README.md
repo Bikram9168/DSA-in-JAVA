@@ -27,3 +27,9 @@ Logic of this program:
 - Then we use simple for loop concept
 - And in for loop we initilze the number which user give us , then in condition part we muliply the input_number*10 , because we want upto 10 ,and increment by this input_number.
 - Finally we print the values.
+- ### Alphabets_with_ASCII.java
+Logic of this program:
+- In this Program we actually print the alphabet character and also print the ASCII value in side
+- For loop initilize i = 65 ,start for capitail 'A' if anyone want to start from 'a' then initilize i = 97
+- And increment by one upto 90 for 'Z' or 122 for 'z'.
+- In this Actual concept is typeconversion . 
