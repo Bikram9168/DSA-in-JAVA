@@ -5,6 +5,8 @@
 - for loop
 - while loop
 - do while loop
+- break statement
+- continue statement
 - Nested loops
 - Loop-based DSA problems
 - ## Learning Goals
@@ -32,4 +34,7 @@ Logic of this program:
 - In this Program we actually print the alphabet character and also print the ASCII value in side
 - For loop initilize i = 65 ,start for capitail 'A' if anyone want to start from 'a' then initilize i = 97
 - And increment by one upto 90 for 'Z' or 122 for 'z'.
-- In this Actual concept is typeconversion . 
+- In this Actual concept is typeconversion .
+- ### Composite_number.java
+Logic of this Program:
+- In this program We actually see the concept of break; statement .
