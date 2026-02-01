@@ -36,3 +36,15 @@ while (condition) {
     updation;
 }
 ```
+- The loop continues to execute as long as the given condition is true.
+- The condition is checked before executing the loop body.
+- If the condition is false initially, the loop will not run even once.
+### Do-While Loop
+A `do while` loop oop is similar to a `while` loop, but the condition is checked after executing the loop body.
+- The loop runs at least once, even if the condition is false.
+**Syntax (general):**
+```c
+do {
+    // code to execute
+} while (condition);
+```
