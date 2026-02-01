@@ -25,3 +25,14 @@ A `for` loop is used when the number of iterations is known in advance.
 for(initialization; condition; increment/decrement) {
     // code to execute
 }
+```
+### While Loop
+A `while` loop is used when the number of iteration is not known in advance.
+**Syntax (general):**
+```c
+initilization;
+while (condition) {
+    // code to execute
+    updation;
+}
+```
