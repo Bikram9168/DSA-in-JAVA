@@ -13,6 +13,7 @@ public class power {
         {
             pow*=base;
         }
-        System.out.println(pow);
+        System.out.println(base+" raised to the power "+power+" is "+pow);
     }
 }
+
