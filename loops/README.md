@@ -39,3 +39,15 @@ Logic of this program:
 - ### Composite_number.java
 Logic of this Program:
 - In this program We actually see the concept of break; statement .
+
+- ### power.java:
+- This Java program calculates the power of a number using a **for loop**.
+- The user enters a **base** and a **power (exponent)**, and the program computes:
+-  base ^ power
+-  without using any built-in math functions.
+Logic of this program:
+- The program uses **repeated multiplication** to calculate the power.
+- Example:
+- Base = 2  
+- Power = 3  
+
