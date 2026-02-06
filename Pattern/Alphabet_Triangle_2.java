@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*In this code we actually print the alphabets in a trianglr all characters in capitail latters*/
 public class Alphabet_Triangle_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -15,3 +15,4 @@ public class Alphabet_Triangle_2 {
             }
     }
 }
+
