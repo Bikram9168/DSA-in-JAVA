@@ -26,6 +26,7 @@ public class MaxNumberOfThree {
         else if(num2>=num1 && num2>=num3) return num2;
         else return num3;
     }
+    /*
     public static void main(String[] args) 
     {
         Scanner input = new Scanner(System.in);
@@ -37,6 +38,8 @@ public class MaxNumberOfThree {
         int num3=input.nextInt();
         System.out.println(max(num1, num2, num3));
     }
+    */
     
 }
+
 
