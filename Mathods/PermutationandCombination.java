@@ -23,7 +23,7 @@ public class PermutationandCombination
         int ncr = fact(n)/(fact(r)*fact(n-r));
 
         int npr = fact(n)/fact(n-r);
-        System.out.println(ncr);
-        System.out.println(npr);
+        System.out.println(ncr + " " + npr);
     }
 }
+
