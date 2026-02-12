@@ -27,7 +27,8 @@ public class SecondLargestElement
         {
             if(arr[i]>smax && arr[i]!=max) smax=arr[i];
         }
-        System.out.println(max);
-        System.out.println(smax);
+        System.out.println("Largest element in this array : "+max);
+        System.out.println("Second Largest element is : "+smax);
     }
 }
+
