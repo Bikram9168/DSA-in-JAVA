@@ -14,10 +14,10 @@ public class UpdatingArray {
             int ele = sc.nextInt();
             arr[i] = ele;
         }
-        print(arr);
-        Upadte(arr);
-        System.out.println();
-        print(arr);
+        print(arr); // At first we see our actual array
+        Upadte(arr);// Here we update the value
+        System.out.println(); //This is for space or next line
+        print(arr);//This is for Updated value
     }
     /*In this method we actually check the index and then updating the value using if - else statement */
     public static void Upadte(int[] arr)
@@ -43,5 +43,6 @@ public class UpdatingArray {
         }
     }
 }
+
 
 
