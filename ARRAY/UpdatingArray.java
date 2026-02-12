@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* In this code We actually update the array where index is odd multiply the element by 2 and if index is even the increment it by 10 */
 public class UpdatingArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -42,3 +42,4 @@ public class UpdatingArray {
         }
     }
 }
+
