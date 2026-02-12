@@ -19,6 +19,7 @@ public class UpdatingArray {
         System.out.println();
         print(arr);
     }
+    /*In this method we actually check the index and then updating the value using if - else statement */
     public static void Upadte(int[] arr)
     {
         for(int i=0;i<arr.length;i++)
@@ -42,4 +43,5 @@ public class UpdatingArray {
         }
     }
 }
+
 
